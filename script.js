@@ -1,4 +1,4 @@
-const API_URL = "https://script.google.com/macros/s/AKfycby_5F1Q0K5Lgks1NpSiqNQIqeOQ4tB-xvK_00QoE18n8PxWcj74Ut76D2kOrQp3Kx6Scw/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbx7OsjCibsxZYCDV6RazZr4RFcH3OFODCGPG5AjMi_rN2LzR4gxNSFwfuVBOrbIhymdZA/exec";
 
 const grid = document.getElementById("numbersGrid"); 
 const infoBox = document.getElementById("infoBox");
